@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @NekkantiDinesh
-- 👀 I’m interested in designing web pages.
+- 👀 I’m interested in designing and developing web pages.
 - 🌱 I have learned HTML, CSS, JavaScript, Figma, Photoshop, Illustrator and XD
 - 🌀 currently learning Advance JS
 - 📫 Can Reach me @ dineshnekkanti@outlook.com
