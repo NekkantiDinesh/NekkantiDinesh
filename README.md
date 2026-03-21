@@ -5,8 +5,3 @@
 -🌱 I have learned HTML, CSS, Bootstrap, jQuery, Tailwind, JavaScript, Figma, Photoshop, Illustrator, InDesign, Canva, Adobe XD, ...
 
 -📫 Can Reach me @ nekkantidinesh@gmail.com
-
-<!---
-NekkantiDinesh/NekkantiDinesh is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
